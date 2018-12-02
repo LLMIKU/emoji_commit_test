@@ -12,4 +12,5 @@
 8. :bug:（bug）=修复bug
 9. :ambulance:（急救车）=重要补丁
 10. :lock:（锁）=修复安全问题
-11. :checkered_flag:（旗帜）=修复windows下的问题
+11. :checkered_flag:（旗帜）=修复Windows下的问题
+12. :penguin:（企鹅）=修复Linux下的问题
