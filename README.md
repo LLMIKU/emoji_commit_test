@@ -14,3 +14,4 @@
 10. :lock:（锁）=修复安全问题
 11. :checkered_flag:（旗帜）=修复Windows下的问题
 12. :penguin:（企鹅）=修复Linux下的问题
+13. :apple:（苹果）=修复macOS下的问题
