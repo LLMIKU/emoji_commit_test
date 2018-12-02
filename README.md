@@ -5,6 +5,6 @@
 3. :construction:（施工）=工作进行中
 4. :globe_with_meridians:（地球）=国际化与本地化
 5. :memo:（备忘录）=撰写文档
-6. :bookmark:（书签）=发行/版本标签
-
-7. :white_check_mark:（白色复选框）=增加测试
+6. :bookmark:（书签）=发行/版本标签 
+7. :white_check_mark:（白色复选框）=增加测试 
+8. :bug:（bug）=修复bug
