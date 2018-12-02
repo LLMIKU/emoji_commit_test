@@ -4,3 +4,4 @@
 2. :rocket:（火箭）=部署功能
 3. :construction:（施工）=工作进行中
 4. :globe_with_meridians:（地球）=国际化与本地化
+5. :memo:（备忘录）=撰写文档
